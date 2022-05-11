@@ -9,5 +9,4 @@ The project is based on ARIMA Model to predict the covid vaccination on time for
 - people_vaccinated
 - total_vaccinations
 - people_fully_vaccinated
-- people_fully_vaccinated
 - new_vaccinations
